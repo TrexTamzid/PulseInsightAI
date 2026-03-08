@@ -1,0 +1,25 @@
+# Core:
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization:
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Machine Learning:
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Interpretability:
+shap==0.45.0
+
+# Dimensionality Reduction:
+umap-learn==0.5.6
+
+# Dashboard:
+streamlit==1.35.0
+
+# Notebook:
+jupyter==1.0.0
+ipykernel==6.29.4

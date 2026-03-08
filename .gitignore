@@ -1,0 +1,36 @@
+# ===== DATA FILES (too large for GitHub) =====
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.zip
+*.xls
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# ===== TRAINED MODELS (can be large) =====
+models/
+*.pkl
+*.joblib
+*.h5
+
+# ===== JUPYTER NOTEBOOKS =====
+.ipynb_checkpoints/
+
+# ===== VS CODE =====
+.vscode/
+
+# ===== OS FILES =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== STREAMLIT =====
+.streamlit/secrets.toml
