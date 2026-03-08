@@ -45,7 +45,7 @@ PulseInsightAI/
 │
 ├── data/
 │   ├── raw/                  ← Original CDC BRFSS dataset
-│   └── processed/            ← Cleaned & engineered data
+│   └── clean/            ← Cleaned & engineered data
 │
 ├── notebooks/
 │   ├── 01_EDA.ipynb          ← Exploratory Data Analysis
@@ -60,7 +60,7 @@ PulseInsightAI/
 │   └── predict.py            ← Prediction functions
 │
 ├── models/                   ← Saved trained models (.pkl)
-├── reports/
+├── output/
 │   └── figures/              ← Saved plots and charts
 ├── dashboard/
 │   └── app.py                ← Streamlit interactive dashboard
