@@ -141,7 +141,7 @@ PulseInsightAI/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/PulseInsightAI.git
+git clone https://github.com/TrexTamzid/PulseInsightAI.git
 cd PulseInsightAI
 ```
 
@@ -195,8 +195,8 @@ streamlit run dashboard/app.py
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@TrexTamzid](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Tamzid Hossain](https://www.linkedin.com/in/tamzid-hossain-34b856237/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRMM%2FfTtvSVKUiFHYx3rspQ%3D%3D)
 
 ---
 
